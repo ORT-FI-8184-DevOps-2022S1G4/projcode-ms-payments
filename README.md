@@ -1,2 +1,1 @@
-# SonarCloud
 # projcode-ms-payments
